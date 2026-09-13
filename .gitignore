@@ -1,0 +1,65 @@
+# ==========================================
+# Compiled Java Source (Build Artifacts)
+# ==========================================
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# ==========================================
+# Maven Build Tool
+# ==========================================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+pom.xml.note
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# ==========================================
+# Gradle Build Tool
+# ==========================================
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Cache against Gradle distributions
+.gradle-caches/
+
+# ==========================================
+# IntelliJ IDEA
+# ==========================================
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# ==========================================
+# Eclipse IDE
+# ==========================================
+.metadata/
+.classpath
+.project
+.settings/
+*.launch
+
+# ==========================================
+# VS Code (Visual Studio Code)
+# ==========================================
+.vscode/
+
+# ==========================================
+# Operating System Files
+# ==========================================
+Thumbs.db
+.DS_Store
